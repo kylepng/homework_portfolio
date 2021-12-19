@@ -6,7 +6,6 @@ html {
   scroll-behavior: smooth;
 }
 
-/* navbar */
 .navbar {
   display: flex;
   justify-content: center;
@@ -39,7 +38,6 @@ html {
   border-bottom: 2px solid yellow;
 }
 
-/* Home Section */
 #home {
   display: flex;
   flex-direction: column;
